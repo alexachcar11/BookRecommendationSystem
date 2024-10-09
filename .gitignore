@@ -25,3 +25,4 @@ replay_pid*
 
 # added by me 
 .DS_Store
+.vscode
