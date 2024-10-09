@@ -1,4 +1,4 @@
-package com.bookRecSystem.backend;
+package com.bookrecsystem.backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
